@@ -3,3 +3,8 @@ body {
     background-image: url(img/100x100.gif);
     color: pink
 }
+
+div {
+    background-color: yellow;
+    color: black;
+}
