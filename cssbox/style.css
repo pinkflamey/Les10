@@ -7,4 +7,10 @@ body {
 div {
     background-color: yellow;
     color: black;
+
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 500px;
+    top: 250px;
 }
